@@ -29,7 +29,7 @@ p {
 
 <a href="https://sabyasac.github.io/Karims/">Karim's</a>
 
-<a href="......................">Zeeshan</a>
+<a href="https://sabyasac.github.io/Zeeshan/">Zeeshan</a>
 
 </body>
 
